@@ -1,0 +1,5996 @@
+[
+  {
+    "line": 2,
+    "name": "kaicenat",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'kaicenat' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 3,
+    "name": "jynxzi",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'jynxzi' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 4,
+    "name": "caedrel",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'caedrel' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 5,
+    "name": "caseoh_",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'caseoh_' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 6,
+    "name": "ibai",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'ibai' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 7,
+    "name": "auronplay",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'auronplay' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 8,
+    "name": "zerator",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'zerator' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 9,
+    "name": "tarik",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'tarik' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 10,
+    "name": "riotgames",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'riotgames' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 11,
+    "name": "papaplatte",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'papaplatte' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 12,
+    "name": "dota2_paragon_ru",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'dota2_paragon_ru' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 13,
+    "name": "aminematue",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'aminematue' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 14,
+    "name": "kato_junichi0817",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'kato_junichi0817' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 15,
+    "name": "fps_shaka",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'fps_shaka' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 16,
+    "name": "illojuan",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'illojuan' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 17,
+    "name": "hasanabi",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'hasanabi' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 18,
+    "name": "montanablack88",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'montanablack88' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 19,
+    "name": "playapex",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'playapex' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 20,
+    "name": "lolpacifictw",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'lolpacifictw' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 21,
+    "name": "pgl_dota2",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'pgl_dota2' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 22,
+    "name": "xqc",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'xqc' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 23,
+    "name": "loud_coringa",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'loud_coringa' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 24,
+    "name": "raderaderader",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'raderaderader' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 25,
+    "name": "gaules",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'gaules' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 26,
+    "name": "yuuri22",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'yuuri22' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 27,
+    "name": "eliasn97",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'eliasn97' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 28,
+    "name": "lord_kebun",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'lord_kebun' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 29,
+    "name": "zackrawrr",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'zackrawrr' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 30,
+    "name": "tumblurr",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'tumblurr' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 31,
+    "name": "ow_esports",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'ow_esports' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 32,
+    "name": "shroud",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'shroud' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 33,
+    "name": "legendus_shaka",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'legendus_shaka' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 34,
+    "name": "paulinholokobr",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'paulinholokobr' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 35,
+    "name": "squeezie",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'squeezie' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 36,
+    "name": "kamet0",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'kamet0' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 37,
+    "name": "gronkh",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'gronkh' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 38,
+    "name": "kingsleagueamericas",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'kingsleagueamericas' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 39,
+    "name": "mixwell",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'mixwell' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 40,
+    "name": "brawlstars",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'brawlstars' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 41,
+    "name": "summit1g",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'summit1g' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 42,
+    "name": "lirik",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'lirik' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 43,
+    "name": "desst3",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'desst3' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 44,
+    "name": "wirtual",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'wirtual' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 45,
+    "name": "warframe",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'warframe' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 46,
+    "name": "nicewigg",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'nicewigg' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 47,
+    "name": "stylishnoob4",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'stylishnoob4' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 48,
+    "name": "rocketleague",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'rocketleague' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 49,
+    "name": "k3soju",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'k3soju' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 50,
+    "name": "rubius",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'rubius' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 51,
+    "name": "zubarefff",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'zubarefff' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 52,
+    "name": "tenz",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'tenz' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 53,
+    "name": "otplol_",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'otplol_' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 54,
+    "name": "casimito",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'casimito' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 55,
+    "name": "cameliaaa92",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'cameliaaa92' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 56,
+    "name": "piratesoftware",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'piratesoftware' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 57,
+    "name": "alanzoka",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'alanzoka' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 58,
+    "name": "valorant_americas",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'valorant_americas' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 59,
+    "name": "gofns",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'gofns' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 60,
+    "name": "goa7league",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'goa7league' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 61,
+    "name": "nexxuz",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'nexxuz' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 62,
+    "name": "ohnepixel",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'ohnepixel' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 63,
+    "name": "tsm_imperialhal",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'tsm_imperialhal' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 64,
+    "name": "mizkif",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'mizkif' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 65,
+    "name": "zetadivision",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'zetadivision' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 66,
+    "name": "elmariana",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'elmariana' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 67,
+    "name": "angryginge13",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'angryginge13' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 68,
+    "name": "lvndmark",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'lvndmark' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 69,
+    "name": "nmplol",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'nmplol' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 70,
+    "name": "bisteconee",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'bisteconee' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 71,
+    "name": "loltyler1",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'loltyler1' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 72,
+    "name": "valorant_jpn",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'valorant_jpn' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 73,
+    "name": "bratishkinoff",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'bratishkinoff' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 74,
+    "name": "noway4u_sir",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'noway4u_sir' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 75,
+    "name": "forsen",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'forsen' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 76,
+    "name": "easportsfc",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'easportsfc' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 77,
+    "name": "alondrissa",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'alondrissa' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 78,
+    "name": "youngmulti",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'youngmulti' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 79,
+    "name": "s0mcs",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 's0mcs' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 80,
+    "name": "rainbow6",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'rainbow6' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 81,
+    "name": "fantasista_jp",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'fantasista_jp' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 82,
+    "name": "sodapoppin",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'sodapoppin' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 83,
+    "name": "spursito",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'spursito' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 84,
+    "name": "jltomy",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'jltomy' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 85,
+    "name": "emiru",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'emiru' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 86,
+    "name": "recrent",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'recrent' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 87,
+    "name": "kanae_2434",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'kanae_2434' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 88,
+    "name": "baiano",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'baiano' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 89,
+    "name": "moonmoon",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'moonmoon' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 90,
+    "name": "thebausffs",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'thebausffs' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 91,
+    "name": "fissure_cs_eng",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'fissure_cs_eng' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 92,
+    "name": "imantado",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'imantado' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 93,
+    "name": "handofblood",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'handofblood' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 94,
+    "name": "esports_rage",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'esports_rage' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 95,
+    "name": "tck10",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'tck10' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 96,
+    "name": "esl_dota2",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'esl_dota2' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 97,
+    "name": "xayoo_",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'xayoo_' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 98,
+    "name": "rostislav_999",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'rostislav_999' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 99,
+    "name": "gorgc",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'gorgc' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 100,
+    "name": "buster",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'buster' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 101,
+    "name": "domingo",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'domingo' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 102,
+    "name": "elxokas",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'elxokas' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 103,
+    "name": "quackitytoo",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'quackitytoo' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 104,
+    "name": "k4sen",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'k4sen' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 105,
+    "name": "s1mple",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 's1mple' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 106,
+    "name": "silvername",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'silvername' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 107,
+    "name": "gotaga",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'gotaga' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 108,
+    "name": "tolkin",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'tolkin' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 109,
+    "name": "djmariio",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'djmariio' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 110,
+    "name": "shadowkekw",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'shadowkekw' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 111,
+    "name": "valorant_pacific",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'valorant_pacific' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 112,
+    "name": "revedtv",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'revedtv' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 113,
+    "name": "hinanotachiba7",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'hinanotachiba7' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 114,
+    "name": "quin69",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'quin69' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 115,
+    "name": "luquet4",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'luquet4' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 116,
+    "name": "rivers_gg",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'rivers_gg' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 117,
+    "name": "paymoneywubby",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'paymoneywubby' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 118,
+    "name": "elspreen",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'elspreen' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 119,
+    "name": "warcraft",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'warcraft' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 120,
+    "name": "cellbit",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'cellbit' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 121,
+    "name": "clix",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'clix' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 122,
+    "name": "maximilian_dood",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'maximilian_dood' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 123,
+    "name": "dkincc",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'dkincc' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 124,
+    "name": "knekro",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'knekro' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 125,
+    "name": "eslcsb",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'eslcsb' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 126,
+    "name": "valorant_emea",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'valorant_emea' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 127,
+    "name": "trymacs",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'trymacs' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 128,
+    "name": "thesketchreal",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'thesketchreal' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 129,
+    "name": "ironmouse",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'ironmouse' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 130,
+    "name": "plaqueboymax",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'plaqueboymax' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 131,
+    "name": "dmitry_lixxx",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'dmitry_lixxx' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 132,
+    "name": "elajjaz",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'elajjaz' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 133,
+    "name": "therealknossi",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'therealknossi' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 134,
+    "name": "agent00",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'agent00' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 135,
+    "name": "wtcn",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'wtcn' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 136,
+    "name": "gamerbrother",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'gamerbrother' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 137,
+    "name": "esfandtv",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'esfandtv' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 138,
+    "name": "nikof",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'nikof' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 139,
+    "name": "jonvlogs",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'jonvlogs' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 140,
+    "name": "ramee",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'ramee' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 141,
+    "name": "xmerghani",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'xmerghani' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 142,
+    "name": "rezo",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'rezo' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 143,
+    "name": "cohhcarnage",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'cohhcarnage' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 144,
+    "name": "jasontheween",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'jasontheween' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 145,
+    "name": "gocchanmikey",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'gocchanmikey' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 146,
+    "name": "simurgh",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'simurgh' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 147,
+    "name": "jasper7se",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'jasper7se' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 148,
+    "name": "leb1ga",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'leb1ga' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 149,
+    "name": "riotgamesjp",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'riotgamesjp' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 150,
+    "name": "mastersnakou",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'mastersnakou' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 151,
+    "name": "stray228",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'stray228' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 152,
+    "name": "northernlion",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'northernlion' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 153,
+    "name": "stableronaldo",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'stableronaldo' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 154,
+    "name": "bren_tm2",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'bren_tm2' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 155,
+    "name": "unboxholics",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'unboxholics' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 156,
+    "name": "davooxeneize",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'davooxeneize' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 157,
+    "name": "hiiragitsurugi",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'hiiragitsurugi' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 158,
+    "name": "hanjoudesu",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'hanjoudesu' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 159,
+    "name": "gabepeixe",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'gabepeixe' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 160,
+    "name": "roger9527",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'roger9527' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 161,
+    "name": "juansguarnizo",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'juansguarnizo' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 162,
+    "name": "locklear",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'locklear' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 163,
+    "name": "bysl4m",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'bysl4m' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 164,
+    "name": "sasatikk",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'sasatikk' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 165,
+    "name": "pauleta_twitch",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'pauleta_twitch' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 166,
+    "name": "magic",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'magic' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 167,
+    "name": "lenagol0vach",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'lenagol0vach' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 168,
+    "name": "antoinedaniel",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'antoinedaniel' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 169,
+    "name": "dreadztv",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'dreadztv' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 170,
+    "name": "lacy",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'lacy' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 171,
+    "name": "fortnite",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'fortnite' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 172,
+    "name": "sykkuno",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'sykkuno' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 173,
+    "name": "botezlive",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'botezlive' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 174,
+    "name": "m0nesyof",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'm0nesyof' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 175,
+    "name": "esl_dota2ember",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'esl_dota2ember' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 176,
+    "name": "wankilstudio",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'wankilstudio' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 177,
+    "name": "rdcgaming",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'rdcgaming' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 178,
+    "name": "aztecross",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'aztecross' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 179,
+    "name": "worldoftanks",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'worldoftanks' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 180,
+    "name": "evo",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'evo' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 181,
+    "name": "amazonmusic",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'amazonmusic' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 182,
+    "name": "guilty1223",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'guilty1223' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 183,
+    "name": "cr_vanilla",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'cr_vanilla' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 184,
+    "name": "h2p_gucio",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'h2p_gucio' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 185,
+    "name": "jesusavgn",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'jesusavgn' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 186,
+    "name": "rdjavi",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'rdjavi' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 187,
+    "name": "maximebiaggi",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'maximebiaggi' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 188,
+    "name": "joueur_du_grenier",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'joueur_du_grenier' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 189,
+    "name": "skywhywalker",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'skywhywalker' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 190,
+    "name": "nba2kleague",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'nba2kleague' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 191,
+    "name": "wenlobong",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'wenlobong' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 192,
+    "name": "vodkavdk",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'vodkavdk' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 193,
+    "name": "schlatt",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'schlatt' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 194,
+    "name": "mrsavage",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'mrsavage' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 195,
+    "name": "bykingcl",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'bykingcl' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 196,
+    "name": "tectone",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'tectone' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 197,
+    "name": "litkillah",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'litkillah' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 198,
+    "name": "doublelift",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'doublelift' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 199,
+    "name": "maya",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'maya' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 200,
+    "name": "scump",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'scump' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 201,
+    "name": "cdawgva",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'cdawgva' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 202,
+    "name": "tisischubech",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'tisischubech' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 203,
+    "name": "therealmarzaa",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'therealmarzaa' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 204,
+    "name": "ravshann",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'ravshann' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 205,
+    "name": "nix",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'nix' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 206,
+    "name": "jcorko_",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'jcorko_' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 207,
+    "name": "martinciriook",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'martinciriook' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 208,
+    "name": "twitchrivals",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'twitchrivals' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 209,
+    "name": "runthefutmarket",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'runthefutmarket' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 210,
+    "name": "rebeudeter",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'rebeudeter' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 211,
+    "name": "aussieantics",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'aussieantics' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 212,
+    "name": "guacamolemolly",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'guacamolemolly' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 213,
+    "name": "jinnytty",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'jinnytty' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 214,
+    "name": "pgl_dota2en2",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'pgl_dota2en2' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 215,
+    "name": "hutchmf",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'hutchmf' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 216,
+    "name": "thegrefg",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'thegrefg' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 217,
+    "name": "auziomf",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'auziomf' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 218,
+    "name": "giggand",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'giggand' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 219,
+    "name": "josedeodo",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'josedeodo' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 220,
+    "name": "mira",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'mira' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 221,
+    "name": "dangerlyoha",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'dangerlyoha' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 222,
+    "name": "zentreya",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'zentreya' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 223,
+    "name": "stariy_bog",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'stariy_bog' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 224,
+    "name": "kyedae",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'kyedae' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 225,
+    "name": "extraemily",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'extraemily' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 226,
+    "name": "brawlhalla",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'brawlhalla' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 227,
+    "name": "akamikarubi",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'akamikarubi' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 228,
+    "name": "bbbb87",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'bbbb87' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 229,
+    "name": "dota2_paragon_ru2",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'dota2_paragon_ru2' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 230,
+    "name": "spiukbs",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'spiukbs' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 231,
+    "name": "esl_dota2storm",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'esl_dota2storm' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 232,
+    "name": "pokimane",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'pokimane' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 233,
+    "name": "jolavanille",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'jolavanille' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 234,
+    "name": "vinesauce",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'vinesauce' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 235,
+    "name": "strogo1337",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'strogo1337' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 236,
+    "name": "yoda",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'yoda' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 237,
+    "name": "bastighg",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'bastighg' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 238,
+    "name": "mistermv",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'mistermv' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 239,
+    "name": "bkinho",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'bkinho' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 240,
+    "name": "otzdarva",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'otzdarva' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 241,
+    "name": "elzeein",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'elzeein' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 242,
+    "name": "setsuko",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'setsuko' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 243,
+    "name": "woohankyung",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'woohankyung' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 244,
+    "name": "steel",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'steel' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 245,
+    "name": "etoiles",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'etoiles' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 246,
+    "name": "finalfantasyxiv",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'finalfantasyxiv' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 247,
+    "name": "dougdoug",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'dougdoug' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 248,
+    "name": "gerardromero",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'gerardromero' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 249,
+    "name": "yuyuta0702",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'yuyuta0702' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 250,
+    "name": "duke",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'duke' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 251,
+    "name": "meikodrj",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'meikodrj' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 252,
+    "name": "lacobraaa",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'lacobraaa' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 253,
+    "name": "fanum",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'fanum' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 254,
+    "name": "franio",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'franio' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 255,
+    "name": "henyathegenius",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'henyathegenius' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 256,
+    "name": "tikyjr",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'tikyjr' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 257,
+    "name": "bonjwa",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'bonjwa' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 258,
+    "name": "jordan_semih",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'jordan_semih' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 259,
+    "name": "pobelter",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'pobelter' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 260,
+    "name": "valorant_br",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'valorant_br' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 261,
+    "name": "mobilmobil",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'mobilmobil' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 262,
+    "name": "izakooo",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'izakooo' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 263,
+    "name": "never_loses",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'never_loses' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 264,
+    "name": "oestagiario",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'oestagiario' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 265,
+    "name": "staiy",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'staiy' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 266,
+    "name": "akademiks",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'akademiks' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 267,
+    "name": "cct_cs",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'cct_cs' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 268,
+    "name": "watsondoto",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'watsondoto' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 269,
+    "name": "warframeinternational",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'warframeinternational' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 270,
+    "name": "pqueen",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'pqueen' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 271,
+    "name": "ninja",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'ninja' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 272,
+    "name": "distortion2",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'distortion2' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 273,
+    "name": "betboom_cs_a",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'betboom_cs_a' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 274,
+    "name": "koreshzy",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'koreshzy' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 275,
+    "name": "ilrossopiubelloditwitch",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'ilrossopiubelloditwitch' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 276,
+    "name": "michou",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'michou' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 277,
+    "name": "banda_chosuke",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'banda_chosuke' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 278,
+    "name": "filian",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'filian' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 279,
+    "name": "ramzes",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'ramzes' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 280,
+    "name": "barbarousking",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'barbarousking' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 281,
+    "name": "t2x2",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 't2x2' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 282,
+    "name": "diario_as",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'diario_as' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 283,
+    "name": "renatko",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'renatko' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 284,
+    "name": "chatterbox",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'chatterbox' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 285,
+    "name": "chess",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'chess' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 286,
+    "name": "admiralbahroo",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'admiralbahroo' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 287,
+    "name": "xrohat",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'xrohat' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 288,
+    "name": "vedal987",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'vedal987' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 289,
+    "name": "roier",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'roier' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 290,
+    "name": "doigby",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'doigby' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 291,
+    "name": "att",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'att' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 292,
+    "name": "skermz",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'skermz' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 293,
+    "name": "samueletienne",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'samueletienne' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 294,
+    "name": "haitani0904",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'haitani0904' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 295,
+    "name": "telefe",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'telefe' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 296,
+    "name": "imorr",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'imorr' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 297,
+    "name": "dariomocciatwitch",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'dariomocciatwitch' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 298,
+    "name": "lilsimsie",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'lilsimsie' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 299,
+    "name": "penta",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'penta' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 300,
+    "name": "nikolarn",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'nikolarn' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 301,
+    "name": "supertf",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'supertf' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 302,
+    "name": "realzbluewater",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'realzbluewater' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 303,
+    "name": "lightturnip",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'lightturnip' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 304,
+    "name": "hiswattson",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'hiswattson' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 305,
+    "name": "glorious_e",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'glorious_e' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 306,
+    "name": "michimochievee",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'michimochievee' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 307,
+    "name": "kmsenkangoo",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'kmsenkangoo' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 308,
+    "name": "yaritaiji",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'yaritaiji' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 309,
+    "name": "imaqtpie",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'imaqtpie' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 310,
+    "name": "deepins02",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'deepins02' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 311,
+    "name": "mazellovvv",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'mazellovvv' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 312,
+    "name": "faide",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'faide' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 313,
+    "name": "akarindao",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'akarindao' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 314,
+    "name": "4head",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry '4head' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 315,
+    "name": "keznit1",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'keznit1' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 316,
+    "name": "pestily",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'pestily' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 317,
+    "name": "gafallen",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'gafallen' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 318,
+    "name": "chilledchaos",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'chilledchaos' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 319,
+    "name": "abugoku9999",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'abugoku9999' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 320,
+    "name": "agustinunaplay8",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'agustinunaplay8' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 321,
+    "name": "just_ns",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'just_ns' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 322,
+    "name": "tubbo",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'tubbo' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 323,
+    "name": "kickeresport",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'kickeresport' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 324,
+    "name": "mande",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'mande' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 325,
+    "name": "skyyart",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'skyyart' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 326,
+    "name": "lla",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'lla' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 327,
+    "name": "quicksoooooo",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'quicksoooooo' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 328,
+    "name": "kussia88",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'kussia88' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 329,
+    "name": "cr_arisakaaa",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'cr_arisakaaa' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 330,
+    "name": "im_mittiii",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'im_mittiii' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 331,
+    "name": "missmikkaa",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'missmikkaa' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 332,
+    "name": "des0ut",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'des0ut' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 333,
+    "name": "grendy",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'grendy' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 334,
+    "name": "minerva",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'minerva' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 335,
+    "name": "universoreality_cl",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'universoreality_cl' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 336,
+    "name": "nissaxter",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'nissaxter' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 337,
+    "name": "shuteye_orange",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'shuteye_orange' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 338,
+    "name": "perxitaa",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'perxitaa' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 339,
+    "name": "jokerdtv",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'jokerdtv' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 340,
+    "name": "laligafcpro",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'laligafcpro' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 341,
+    "name": "xcry",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'xcry' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 342,
+    "name": "pequenocabelo",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'pequenocabelo' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 343,
+    "name": "dantes",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'dantes' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 344,
+    "name": "willneff",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'willneff' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 345,
+    "name": "voodoosh",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'voodoosh' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 346,
+    "name": "gronkhtv",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'gronkhtv' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 347,
+    "name": "drututt",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'drututt' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 348,
+    "name": "manuuxo",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'manuuxo' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 349,
+    "name": "nadeshot",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'nadeshot' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 350,
+    "name": "sasavot",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'sasavot' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 351,
+    "name": "spkclb",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'spkclb' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 352,
+    "name": "alfrea",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'alfrea' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 353,
+    "name": "broxah",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'broxah' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 354,
+    "name": "sacy",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'sacy' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 355,
+    "name": "oceaneamsler",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'oceaneamsler' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 356,
+    "name": "ren_kisaragi__",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'ren_kisaragi__' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 357,
+    "name": "moistcr1tikal",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'moistcr1tikal' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 358,
+    "name": "ravanha69",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'ravanha69' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 359,
+    "name": "boxbox",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'boxbox' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 360,
+    "name": "carreraaa",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'carreraaa' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 361,
+    "name": "evojapan02",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'evojapan02' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 362,
+    "name": "39daph",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry '39daph' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 363,
+    "name": "robcdee",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'robcdee' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 364,
+    "name": "emongg",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'emongg' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 365,
+    "name": "evojapan01",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'evojapan01' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 366,
+    "name": "moe_iori",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'moe_iori' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 367,
+    "name": "crazyraccoonyy",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'crazyraccoonyy' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 368,
+    "name": "vysotzky",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'vysotzky' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 369,
+    "name": "naru0419045",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'naru0419045' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 370,
+    "name": "aquino",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'aquino' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 371,
+    "name": "amouranth",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'amouranth' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 372,
+    "name": "theneedledrop",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'theneedledrop' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 373,
+    "name": "zoomaa",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'zoomaa' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 374,
+    "name": "aldo_geo",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'aldo_geo' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 375,
+    "name": "sanninshow_3ns",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'sanninshow_3ns' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 376,
+    "name": "jingggxd",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'jingggxd' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 377,
+    "name": "batora324",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'batora324' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 378,
+    "name": "rezonfn",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'rezonfn' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 379,
+    "name": "luminositygaming",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'luminositygaming' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 380,
+    "name": "dasmehdi",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'dasmehdi' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 381,
+    "name": "rdulive",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'rdulive' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 382,
+    "name": "masondota2",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'masondota2' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 383,
+    "name": "symfuhny",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'symfuhny' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 384,
+    "name": "mckytv",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'mckytv' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 385,
+    "name": "insym",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'insym' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 386,
+    "name": "vei",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'vei' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 387,
+    "name": "peterbot",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'peterbot' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 388,
+    "name": "oniyadayo",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'oniyadayo' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 389,
+    "name": "quickybaby",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'quickybaby' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 390,
+    "name": "tfblade",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'tfblade' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 391,
+    "name": "smallant",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'smallant' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 392,
+    "name": "asianbunnyx",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'asianbunnyx' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 393,
+    "name": "zrush",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'zrush' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 394,
+    "name": "amar",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'amar' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 395,
+    "name": "kyle",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'kyle' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 396,
+    "name": "ow_uruca",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'ow_uruca' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 397,
+    "name": "ijenz",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'ijenz' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 398,
+    "name": "hudson_jw",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'hudson_jw' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 399,
+    "name": "stompgoat",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'stompgoat' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 400,
+    "name": "ratirl",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'ratirl' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 401,
+    "name": "elded",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'elded' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 402,
+    "name": "neexcsgo",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'neexcsgo' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 403,
+    "name": "dota2_paragon_ru3",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'dota2_paragon_ru3' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 404,
+    "name": "kitboga",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'kitboga' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 405,
+    "name": "c0ker",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'c0ker' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 406,
+    "name": "flats",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'flats' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 407,
+    "name": "gutitubo",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'gutitubo' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 408,
+    "name": "crystalmolly",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'crystalmolly' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 409,
+    "name": "chowh1",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'chowh1' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 410,
+    "name": "absoluttlol",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'absoluttlol' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 411,
+    "name": "mertabimula",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'mertabimula' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 412,
+    "name": "foolish",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'foolish' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 413,
+    "name": "im_dontai",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'im_dontai' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 414,
+    "name": "gu_zk",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'gu_zk' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 415,
+    "name": "alexelcapo",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'alexelcapo' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 416,
+    "name": "serega_pirat",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'serega_pirat' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 417,
+    "name": "nobruxyn",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'nobruxyn' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 418,
+    "name": "zy0xxx",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'zy0xxx' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 419,
+    "name": "skylinetvlive",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'skylinetvlive' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 420,
+    "name": "lex_official_casino",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'lex_official_casino' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 421,
+    "name": "xthesolutiontv",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'xthesolutiontv' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 422,
+    "name": "c_a_k_e",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'c_a_k_e' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 423,
+    "name": "grenbaud",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'grenbaud' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 424,
+    "name": "tomateking",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'tomateking' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 425,
+    "name": "alveussanctuary",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'alveussanctuary' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 426,
+    "name": "fugu_fps",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'fugu_fps' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 427,
+    "name": "rocketbaguette",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'rocketbaguette' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 428,
+    "name": "brothers_baseball",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'brothers_baseball' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 429,
+    "name": "iwdominate",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'iwdominate' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 430,
+    "name": "godjj",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'godjj' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 431,
+    "name": "rybsonlol_",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'rybsonlol_' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 432,
+    "name": "dkayed",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'dkayed' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 433,
+    "name": "teamredline",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'teamredline' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 434,
+    "name": "ml7support",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'ml7support' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 435,
+    "name": "scrapie",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'scrapie' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 436,
+    "name": "97zoner",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry '97zoner' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 437,
+    "name": "coreano",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'coreano' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 438,
+    "name": "daigothebeastv",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'daigothebeastv' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 439,
+    "name": "adolfz",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'adolfz' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 440,
+    "name": "valorant_fr",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'valorant_fr' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 441,
+    "name": "smoke",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'smoke' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 442,
+    "name": "bichouu_",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'bichouu_' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 443,
+    "name": "obormentv",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'obormentv' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 444,
+    "name": "diazbiffle",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'diazbiffle' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 445,
+    "name": "xaryu",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'xaryu' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 446,
+    "name": "qojqva",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'qojqva' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 447,
+    "name": "jutysel",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'jutysel' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 448,
+    "name": "symbiolive",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'symbiolive' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 449,
+    "name": "disguisedtoast",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'disguisedtoast' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 450,
+    "name": "aspen",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'aspen' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 451,
+    "name": "suetam1v4",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'suetam1v4' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 452,
+    "name": "sidneyeweka",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'sidneyeweka' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 453,
+    "name": "oldschoolrs",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'oldschoolrs' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 454,
+    "name": "sardoche",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'sardoche' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 455,
+    "name": "sinatraa",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'sinatraa' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 456,
+    "name": "niklaswilson",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'niklaswilson' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 457,
+    "name": "spygea",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'spygea' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 458,
+    "name": "erobb221",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'erobb221' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 459,
+    "name": "pokelawls",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'pokelawls' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 460,
+    "name": "hennie2001",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'hennie2001' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 461,
+    "name": "shinjifromjapanxd",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'shinjifromjapanxd' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 462,
+    "name": "miniminter",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'miniminter' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 463,
+    "name": "saadhak",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'saadhak' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 464,
+    "name": "nickmercs",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'nickmercs' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 465,
+    "name": "tekken",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'tekken' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 466,
+    "name": "sliggytv",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'sliggytv' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 467,
+    "name": "gingitv",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'gingitv' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 468,
+    "name": "myrajusa",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'myrajusa' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 469,
+    "name": "warthunder_esports",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'warthunder_esports' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 470,
+    "name": "ayellol",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'ayellol' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 471,
+    "name": "mongraal",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'mongraal' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 472,
+    "name": "ydosyc",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'ydosyc' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 473,
+    "name": "lydiaviolet",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'lydiaviolet' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 474,
+    "name": "pubg_battlegrounds",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'pubg_battlegrounds' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 475,
+    "name": "rubenmartinweb",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'rubenmartinweb' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 476,
+    "name": "edwin_live",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'edwin_live' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 477,
+    "name": "the_happy_hob",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'the_happy_hob' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 478,
+    "name": "prxf0rsaken",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'prxf0rsaken' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 479,
+    "name": "melharucos",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'melharucos' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 480,
+    "name": "byilhann",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'byilhann' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 481,
+    "name": "shylily",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'shylily' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 482,
+    "name": "sajam",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'sajam' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 483,
+    "name": "honeypuu",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'honeypuu' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 484,
+    "name": "dvm_medja",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'dvm_medja' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 485,
+    "name": "japanesekoreanug",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'japanesekoreanug' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 486,
+    "name": "drakeoffc",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'drakeoffc' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 487,
+    "name": "philza",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'philza' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 488,
+    "name": "deqiuv",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'deqiuv' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 489,
+    "name": "tomato",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'tomato' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 490,
+    "name": "emeamasters",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'emeamasters' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 491,
+    "name": "ronnyberger",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'ronnyberger' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 492,
+    "name": "revenant",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'revenant' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 493,
+    "name": "ecusobe",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'ecusobe' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 494,
+    "name": "cs2_paragon_ru",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'cs2_paragon_ru' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 495,
+    "name": "mortdog",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'mortdog' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 496,
+    "name": "buxexa_v",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'buxexa_v' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 497,
+    "name": "gssspotted",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'gssspotted' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 498,
+    "name": "dogdog",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'dogdog' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 499,
+    "name": "kyootbot",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'kyootbot' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 500,
+    "name": "lxrygirltv",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'lxrygirltv' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 501,
+    "name": "w0n23",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'w0n23' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 502,
+    "name": "ponce",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'ponce' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 503,
+    "name": "shisheyu",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'shisheyu' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 504,
+    "name": "xop0",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'xop0' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 505,
+    "name": "blackufa",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'blackufa' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 506,
+    "name": "yoon_froggy",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'yoon_froggy' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 507,
+    "name": "shotzzy",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'shotzzy' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 508,
+    "name": "morphe_ya",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'morphe_ya' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 509,
+    "name": "helydia",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'helydia' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 510,
+    "name": "pietsmiet",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'pietsmiet' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 511,
+    "name": "criticalrole",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'criticalrole' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 512,
+    "name": "rainbow6bravo",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'rainbow6bravo' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 513,
+    "name": "ryluva",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'ryluva' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 514,
+    "name": "healthygamer_gg",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'healthygamer_gg' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 515,
+    "name": "baitybait",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'baitybait' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 516,
+    "name": "hitsquadgodfather",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'hitsquadgodfather' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 517,
+    "name": "elchiringuitotv",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'elchiringuitotv' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 518,
+    "name": "zerospoker",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'zerospoker' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 519,
+    "name": "frg_ox",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'frg_ox' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 520,
+    "name": "danila_gorilla",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'danila_gorilla' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 521,
+    "name": "golaniyule0",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'golaniyule0' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 522,
+    "name": "lol_nemesis",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'lol_nemesis' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 523,
+    "name": "fifakillvizualz",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'fifakillvizualz' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 524,
+    "name": "mohaguvy",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'mohaguvy' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 525,
+    "name": "buxexa_px",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'buxexa_px' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 526,
+    "name": "rebirthztv",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'rebirthztv' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 527,
+    "name": "shanks_ttv",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'shanks_ttv' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 528,
+    "name": "metashi12",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'metashi12' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 529,
+    "name": "zakvielchannel",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'zakvielchannel' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 530,
+    "name": "calcioberlin",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'calcioberlin' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 531,
+    "name": "nl_kripp",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'nl_kripp' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 532,
+    "name": "oatley",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'oatley' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 533,
+    "name": "ufyzehug",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'ufyzehug' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 534,
+    "name": "luxurygirl_p",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'luxurygirl_p' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 535,
+    "name": "wdgjapan_ow",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'wdgjapan_ow' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 536,
+    "name": "syztmyx",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'syztmyx' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 537,
+    "name": "tororo_vtuber",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'tororo_vtuber' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 538,
+    "name": "cblol",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'cblol' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 539,
+    "name": "avyget",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'avyget' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 540,
+    "name": "jackeyy",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'jackeyy' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 541,
+    "name": "laculebi",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'laculebi' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 542,
+    "name": "nobru_xyn",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'nobru_xyn' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 543,
+    "name": "mago2dgod",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'mago2dgod' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 544,
+    "name": "lvpes",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'lvpes' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 545,
+    "name": "2okos",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry '2okos' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 546,
+    "name": "deusamir",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'deusamir' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 547,
+    "name": "jankos",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'jankos' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 548,
+    "name": "welovegames",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'welovegames' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 549,
+    "name": "squeex",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'squeex' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 550,
+    "name": "n3koglai",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'n3koglai' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 551,
+    "name": "avoidingthepuddle",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'avoidingthepuddle' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 552,
+    "name": "yukiofps14",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'yukiofps14' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 553,
+    "name": "rainelissss",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'rainelissss' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 554,
+    "name": "teepee",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'teepee' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 555,
+    "name": "syztmy",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'syztmy' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 556,
+    "name": "mattp1tommy",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'mattp1tommy' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 557,
+    "name": "kamito_jp",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'kamito_jp' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 558,
+    "name": "nervarien",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'nervarien' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 559,
+    "name": "eamaddennfl",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'eamaddennfl' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 560,
+    "name": "kubafps",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'kubafps' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 561,
+    "name": "brtt",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'brtt' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 562,
+    "name": "singsing",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'singsing' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 563,
+    "name": "mokouliszt1",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'mokouliszt1' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 564,
+    "name": "tangotek",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'tangotek' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 565,
+    "name": "silky",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'silky' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 566,
+    "name": "redbullbatalla",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'redbullbatalla' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 567,
+    "name": "canalquickie",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'canalquickie' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 568,
+    "name": "blusewilly_retry",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'blusewilly_retry' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 569,
+    "name": "joe_bartolozzi",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'joe_bartolozzi' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 570,
+    "name": "ekylimy",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'ekylimy' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 571,
+    "name": "zwebackhd",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'zwebackhd' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 572,
+    "name": "quarterjade",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'quarterjade' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 573,
+    "name": "light_starboy",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'light_starboy' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 574,
+    "name": "axozer",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'axozer' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 575,
+    "name": "lars_tm",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'lars_tm' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 576,
+    "name": "shlorox",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'shlorox' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 577,
+    "name": "kr1stw",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'kr1stw' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 578,
+    "name": "ewroon",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'ewroon' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 579,
+    "name": "valorant_la",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'valorant_la' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 580,
+    "name": "agraelus",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'agraelus' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 581,
+    "name": "yamatosdeath",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'yamatosdeath' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 582,
+    "name": "peintooon",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'peintooon' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 583,
+    "name": "razah",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'razah' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 584,
+    "name": "maximum",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'maximum' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 585,
+    "name": "smthlikeyou11",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'smthlikeyou11' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 586,
+    "name": "nisqyy",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'nisqyy' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 587,
+    "name": "mrdzinold",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'mrdzinold' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 588,
+    "name": "lysium",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'lysium' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 589,
+    "name": "zekken",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'zekken' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 590,
+    "name": "gytoxydo",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'gytoxydo' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 591,
+    "name": "iitztimmy",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'iitztimmy' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 592,
+    "name": "buxexa_e",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'buxexa_e' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 593,
+    "name": "derajn",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'derajn' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 594,
+    "name": "zegociv",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'zegociv' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 595,
+    "name": "dhalucard",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'dhalucard' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 596,
+    "name": "bananirou",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'bananirou' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 597,
+    "name": "olgaenvivo",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'olgaenvivo' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 598,
+    "name": "elglogloking",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'elglogloking' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 599,
+    "name": "putupau",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'putupau' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 600,
+    "name": "klean",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'klean' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 601,
+    "name": "iateyourpie",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'iateyourpie' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 602,
+    "name": "liminhag0d",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'liminhag0d' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 603,
+    "name": "sneakylol",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'sneakylol' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 604,
+    "name": "gmhikaru",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'gmhikaru' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 605,
+    "name": "snopey_",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'snopey_' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 606,
+    "name": "goodtimeswithscar",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'goodtimeswithscar' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 607,
+    "name": "fl0m",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'fl0m' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 608,
+    "name": "lamc",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'lamc' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 609,
+    "name": "strippin",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'strippin' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 610,
+    "name": "hudson_om",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'hudson_om' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 611,
+    "name": "by_owl",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'by_owl' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 612,
+    "name": "begizo",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'begizo' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 613,
+    "name": "lynxcerezlol",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'lynxcerezlol' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 614,
+    "name": "midbeast",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'midbeast' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 615,
+    "name": "derzko69",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'derzko69' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 616,
+    "name": "jidionpremium",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'jidionpremium' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 617,
+    "name": "emilyywang",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'emilyywang' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 618,
+    "name": "jeanmassiet",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'jeanmassiet' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 619,
+    "name": "dracon",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'dracon' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 620,
+    "name": "helin139",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'helin139' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 621,
+    "name": "thedandangler",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'thedandangler' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 622,
+    "name": "matarakan",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'matarakan' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 623,
+    "name": "iamcristinini",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'iamcristinini' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 624,
+    "name": "footballbromance",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'footballbromance' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 625,
+    "name": "jukes",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'jukes' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 626,
+    "name": "rockykramer",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'rockykramer' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 627,
+    "name": "brokybrawkstv",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'brokybrawkstv' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 628,
+    "name": "skill4ltu",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'skill4ltu' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 629,
+    "name": "xarola_",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'xarola_' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 630,
+    "name": "traytonlol",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'traytonlol' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 631,
+    "name": "meduska",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'meduska' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 632,
+    "name": "ferretsoftware",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'ferretsoftware' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 633,
+    "name": "willerz",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'willerz' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 634,
+    "name": "datmodz",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'datmodz' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 635,
+    "name": "altair",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'altair' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 636,
+    "name": "vymago",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'vymago' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 637,
+    "name": "kxpture",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'kxpture' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 638,
+    "name": "titanlol1",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'titanlol1' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 639,
+    "name": "maxim",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'maxim' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 640,
+    "name": "malchugov",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'malchugov' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 641,
+    "name": "edizderbreite",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'edizderbreite' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 642,
+    "name": "dz7baile",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'dz7baile' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 643,
+    "name": "wudijo",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'wudijo' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 644,
+    "name": "dota2_maincast",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'dota2_maincast' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 645,
+    "name": "popo",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'popo' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 646,
+    "name": "itsspoit",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'itsspoit' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 647,
+    "name": "staryuuki",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'staryuuki' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 648,
+    "name": "controcalcio__",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'controcalcio__' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 649,
+    "name": "alderiate",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'alderiate' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 650,
+    "name": "trebor",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'trebor' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 651,
+    "name": "juanicar_",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'juanicar_' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 652,
+    "name": "axtlol",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'axtlol' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 653,
+    "name": "gcxevent",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'gcxevent' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 654,
+    "name": "imls",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'imls' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 655,
+    "name": "poinemaia",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'poinemaia' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 656,
+    "name": "cs2_maincast",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'cs2_maincast' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 657,
+    "name": "vatira_",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'vatira_' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 658,
+    "name": "yoshinama222",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'yoshinama222' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 659,
+    "name": "kaysan",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'kaysan' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 660,
+    "name": "buxexa_y",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'buxexa_y' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 661,
+    "name": "papesan",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'papesan' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 662,
+    "name": "paivinha29",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'paivinha29' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 663,
+    "name": "cinna",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'cinna' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 664,
+    "name": "alphasniper97",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'alphasniper97' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 665,
+    "name": "guanweiboy",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'guanweiboy' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 666,
+    "name": "qusazytu",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'qusazytu' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 667,
+    "name": "buxexa_l",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'buxexa_l' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 668,
+    "name": "alphacast",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'alphacast' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 669,
+    "name": "elwycco",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'elwycco' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 670,
+    "name": "silvervale",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'silvervale' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 671,
+    "name": "ilame",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'ilame' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 672,
+    "name": "impulsesv",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'impulsesv' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 673,
+    "name": "france_tv_slash",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'france_tv_slash' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 674,
+    "name": "burkeblack",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'burkeblack' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 675,
+    "name": "kspksp",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'kspksp' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 676,
+    "name": "qudegam",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'qudegam' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 677,
+    "name": "qttsix",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'qttsix' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 678,
+    "name": "santutu",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'santutu' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 679,
+    "name": "stintik",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'stintik' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 680,
+    "name": "tonton",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'tonton' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 681,
+    "name": "llunaclark",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'llunaclark' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 682,
+    "name": "rezreel",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'rezreel' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 683,
+    "name": "frg_ix",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'frg_ix' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 684,
+    "name": "dep_ow",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'dep_ow' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 685,
+    "name": "hudson_jk",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'hudson_jk' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 686,
+    "name": "grubby",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'grubby' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 687,
+    "name": "oslo",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'oslo' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 688,
+    "name": "unicornio",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'unicornio' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 689,
+    "name": "cr_rion",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'cr_rion' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 690,
+    "name": "asiagodtonegg3be0",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'asiagodtonegg3be0' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 691,
+    "name": "uzra",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'uzra' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 692,
+    "name": "ybicanoooobov",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'ybicanoooobov' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 693,
+    "name": "ta1yo_tv",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'ta1yo_tv' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 694,
+    "name": "shxtou",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'shxtou' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 695,
+    "name": "towelliee",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'towelliee' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 696,
+    "name": "kenki521",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'kenki521' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 697,
+    "name": "gtasty",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'gtasty' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 698,
+    "name": "vgbootcamp",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'vgbootcamp' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 699,
+    "name": "skipnho",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'skipnho' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 700,
+    "name": "morgpie",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'morgpie' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 701,
+    "name": "dmf_kyochan",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'dmf_kyochan' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 702,
+    "name": "cyr",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'cyr' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 703,
+    "name": "stankrat",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'stankrat' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 704,
+    "name": "5opka",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry '5opka' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 705,
+    "name": "haiset",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'haiset' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 706,
+    "name": "mithrain",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'mithrain' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 707,
+    "name": "huahed",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'huahed' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 708,
+    "name": "ikoma_dogura",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'ikoma_dogura' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 709,
+    "name": "gothamchess",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'gothamchess' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 710,
+    "name": "franciscoow",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'franciscoow' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 711,
+    "name": "luxurygirl_c",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'luxurygirl_c' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 712,
+    "name": "potatozytb",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'potatozytb' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 713,
+    "name": "girlsluxury",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'girlsluxury' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 714,
+    "name": "agustabell212",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'agustabell212' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 715,
+    "name": "fibii",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'fibii' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 716,
+    "name": "sinder",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'sinder' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 717,
+    "name": "luxurygirl_g",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'luxurygirl_g' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 718,
+    "name": "nobruxyx",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'nobruxyx' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 719,
+    "name": "frttt",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'frttt' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 720,
+    "name": "buxexa_p",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'buxexa_p' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 721,
+    "name": "rush",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'rush' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 722,
+    "name": "worldofwarships",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'worldofwarships' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 723,
+    "name": "letshugotv",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'letshugotv' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 724,
+    "name": "demon1",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'demon1' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 725,
+    "name": "nadia",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'nadia' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 726,
+    "name": "bepofani",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'bepofani' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 727,
+    "name": "universoreality_br",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'universoreality_br' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 728,
+    "name": "alpharad",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'alpharad' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 729,
+    "name": "doktorfroid",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'doktorfroid' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 730,
+    "name": "bobbypoffgaming",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'bobbypoffgaming' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 731,
+    "name": "dannyaarons",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'dannyaarons' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 732,
+    "name": "orkpod",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'orkpod' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 733,
+    "name": "dafran",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'dafran' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 734,
+    "name": "dishsoap",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'dishsoap' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 735,
+    "name": "zanoxvii",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'zanoxvii' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 736,
+    "name": "rob2628",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'rob2628' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 737,
+    "name": "luxurygirl_y",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'luxurygirl_y' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 738,
+    "name": "thejrm_",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'thejrm_' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 739,
+    "name": "esportsu",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'esportsu' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 740,
+    "name": "solaryhs",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'solaryhs' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 741,
+    "name": "vyleja",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'vyleja' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 742,
+    "name": "cabramaravilla",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'cabramaravilla' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 743,
+    "name": "raxxanterax",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'raxxanterax' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 744,
+    "name": "mym_alkapone",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'mym_alkapone' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 745,
+    "name": "tioorochitwitch",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'tioorochitwitch' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 746,
+    "name": "irissiri129",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'irissiri129' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 747,
+    "name": "mipooshka",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'mipooshka' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 748,
+    "name": "grimmmz",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'grimmmz' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 749,
+    "name": "ligue1ubereats",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'ligue1ubereats' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 750,
+    "name": "mynthos",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'mynthos' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 751,
+    "name": "lexveldhuis",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'lexveldhuis' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 752,
+    "name": "buxexa_a",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'buxexa_a' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 753,
+    "name": "danyetraz",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'danyetraz' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 754,
+    "name": "gorilon",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'gorilon' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 755,
+    "name": "evojapan03",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'evojapan03' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 756,
+    "name": "faiar",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'faiar' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 757,
+    "name": "rainbow6br",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'rainbow6br' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 758,
+    "name": "deansocool",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'deansocool' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 759,
+    "name": "robinsongz",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'robinsongz' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 760,
+    "name": "bigbossboze",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'bigbossboze' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 761,
+    "name": "jd_onlymusic",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'jd_onlymusic' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 762,
+    "name": "knebeltv",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'knebeltv' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 763,
+    "name": "phunkroyal",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'phunkroyal' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 764,
+    "name": "tanzverbot",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'tanzverbot' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 765,
+    "name": "sam1268",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'sam1268' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 766,
+    "name": "move_mind",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'move_mind' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 767,
+    "name": "skillz0r1337",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'skillz0r1337' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 768,
+    "name": "imod",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'imod' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 769,
+    "name": "lxrsgirls",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'lxrsgirls' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 770,
+    "name": "rickyedit",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'rickyedit' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 771,
+    "name": "putezice",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'putezice' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 772,
+    "name": "fakturka",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'fakturka' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 773,
+    "name": "esb_dota2",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'esb_dota2' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 774,
+    "name": "pizfn",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'pizfn' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 775,
+    "name": "clemovitch",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'clemovitch' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 776,
+    "name": "aydan",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'aydan' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 777,
+    "name": "scurrows",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'scurrows' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 778,
+    "name": "tinakitten",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'tinakitten' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 779,
+    "name": "datto",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'datto' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 780,
+    "name": "tpabomah",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'tpabomah' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 781,
+    "name": "burgaofps",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'burgaofps' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 782,
+    "name": "premiertwo",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'premiertwo' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 783,
+    "name": "sutanmi",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'sutanmi' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 784,
+    "name": "limealicious",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'limealicious' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 785,
+    "name": "baikincl",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'baikincl' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 786,
+    "name": "creamtherabbit",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'creamtherabbit' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 787,
+    "name": "akaonikou1207",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'akaonikou1207' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 788,
+    "name": "buckefps",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'buckefps' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 789,
+    "name": "goncho",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'goncho' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 790,
+    "name": "ennaouii",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'ennaouii' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 791,
+    "name": "zarbex",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'zarbex' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 792,
+    "name": "teegrizzley",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'teegrizzley' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 793,
+    "name": "domenicowaccoo",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'domenicowaccoo' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 794,
+    "name": "deadlyslob",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'deadlyslob' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 795,
+    "name": "johnqtcs",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'johnqtcs' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 796,
+    "name": "mrpokke",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'mrpokke' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 797,
+    "name": "tteuw",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'tteuw' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 798,
+    "name": "atrioc",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'atrioc' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 799,
+    "name": "abed_dota",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'abed_dota' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 800,
+    "name": "roxasorg13th",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'roxasorg13th' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 801,
+    "name": "juice",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'juice' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 802,
+    "name": "justcooman",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'justcooman' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 803,
+    "name": "bbreadman",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'bbreadman' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 804,
+    "name": "banduracartel",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'banduracartel' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 805,
+    "name": "maghla",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'maghla' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 806,
+    "name": "machete_vilches",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'machete_vilches' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 807,
+    "name": "dekkster",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'dekkster' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 808,
+    "name": "dunduk",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'dunduk' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 809,
+    "name": "zeling",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'zeling' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 810,
+    "name": "r_k7den",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'r_k7den' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 811,
+    "name": "gostreamstv1158",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'gostreamstv1158' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 812,
+    "name": "restiafps",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'restiafps' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 813,
+    "name": "low031",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'low031' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 814,
+    "name": "sick_nerd",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'sick_nerd' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 815,
+    "name": "sharkmacedo",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'sharkmacedo' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 816,
+    "name": "nihmune",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'nihmune' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 817,
+    "name": "sirmaza",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'sirmaza' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 818,
+    "name": "simply",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'simply' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 819,
+    "name": "lilaggy",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'lilaggy' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 820,
+    "name": "amakipururu",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'amakipururu' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 821,
+    "name": "tarzaned",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'tarzaned' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 822,
+    "name": "therunningmanz",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'therunningmanz' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 823,
+    "name": "sequisha",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'sequisha' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 824,
+    "name": "mister_m_do_tigrinho",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'mister_m_do_tigrinho' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 825,
+    "name": "qtcinderella",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'qtcinderella' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 826,
+    "name": "playhard",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'playhard' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 827,
+    "name": "jeffhoogland",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'jeffhoogland' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 828,
+    "name": "dekarldent",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'dekarldent' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 829,
+    "name": "lazvell",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'lazvell' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 830,
+    "name": "kettuncyukyuhei",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'kettuncyukyuhei' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 831,
+    "name": "subroza",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'subroza' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 832,
+    "name": "torontotokyo17",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'torontotokyo17' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 833,
+    "name": "agustin51",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'agustin51' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 834,
+    "name": "curry",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'curry' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 835,
+    "name": "9pasha",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry '9pasha' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 836,
+    "name": "icuvabi",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'icuvabi' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 837,
+    "name": "flight23white",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'flight23white' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 838,
+    "name": "formula1",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'formula1' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 839,
+    "name": "aunkere",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'aunkere' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 840,
+    "name": "moonryde",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'moonryde' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 841,
+    "name": "s201111",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 's201111' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 842,
+    "name": "agurin",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'agurin' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 843,
+    "name": "ibabyrainbow",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'ibabyrainbow' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 844,
+    "name": "xari",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'xari' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 845,
+    "name": "carpentieri",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'carpentieri' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 846,
+    "name": "akyuliych",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'akyuliych' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 847,
+    "name": "kkatamina",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'kkatamina' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 848,
+    "name": "krapycoco",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'krapycoco' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 849,
+    "name": "fobm4ster",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'fobm4ster' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 850,
+    "name": "terracid",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'terracid' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 851,
+    "name": "solary",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'solary' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 852,
+    "name": "ade3_3",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'ade3_3' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 853,
+    "name": "forg1",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'forg1' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 854,
+    "name": "mother3rd",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'mother3rd' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 855,
+    "name": "xqn_thesad",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'xqn_thesad' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 856,
+    "name": "laplusdarknesss_hololive",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'laplusdarknesss_hololive' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 857,
+    "name": "carolinekwan",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'carolinekwan' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 858,
+    "name": "elyihi",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'elyihi' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 859,
+    "name": "fer",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'fer' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 860,
+    "name": "lukisteve",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'lukisteve' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 861,
+    "name": "silizvlive",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'silizvlive' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 862,
+    "name": "dashy",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'dashy' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 863,
+    "name": "fanfan",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'fanfan' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 864,
+    "name": "omybexul",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'omybexul' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 865,
+    "name": "vegetta777",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'vegetta777' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 866,
+    "name": "terablade",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'terablade' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 867,
+    "name": "hugodelire",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'hugodelire' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 868,
+    "name": "sypherpk",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'sypherpk' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 869,
+    "name": "orslok",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'orslok' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 870,
+    "name": "ricoy",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'ricoy' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 871,
+    "name": "benjyfishy",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'benjyfishy' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 872,
+    "name": "psp1g",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'psp1g' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 873,
+    "name": "rocky_",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'rocky_' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 874,
+    "name": "vozipu",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'vozipu' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 875,
+    "name": "bawkbasoup",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'bawkbasoup' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 876,
+    "name": "thijs",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'thijs' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 877,
+    "name": "dansgaming",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'dansgaming' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 878,
+    "name": "chibidoki",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'chibidoki' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 879,
+    "name": "bakagaijinlive",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'bakagaijinlive' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 880,
+    "name": "surefour",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'surefour' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 881,
+    "name": "rtgame",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'rtgame' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 882,
+    "name": "turuokamonohashi",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'turuokamonohashi' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 883,
+    "name": "geega",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'geega' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 884,
+    "name": "luzu_tv",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'luzu_tv' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 885,
+    "name": "boxyfresh",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'boxyfresh' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 886,
+    "name": "nyrepik",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'nyrepik' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 887,
+    "name": "bao",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'bao' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 888,
+    "name": "artcsgo",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'artcsgo' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 889,
+    "name": "hudson_nf",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'hudson_nf' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 890,
+    "name": "onigiri",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'onigiri' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 891,
+    "name": "pikabooirl",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'pikabooirl' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 892,
+    "name": "a_seagull",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'a_seagull' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 893,
+    "name": "anniefuchsia",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'anniefuchsia' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 894,
+    "name": "qlnek",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'qlnek' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 895,
+    "name": "tototmix",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'tototmix' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 896,
+    "name": "et_1231",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'et_1231' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 897,
+    "name": "todukori",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'todukori' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 898,
+    "name": "gernaderjake",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'gernaderjake' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 899,
+    "name": "bisejif",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'bisejif' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 900,
+    "name": "tvander",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'tvander' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 901,
+    "name": "filow",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'filow' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 902,
+    "name": "spontent",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'spontent' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 903,
+    "name": "pancadalv",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'pancadalv' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 904,
+    "name": "themainmanswe",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'themainmanswe' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 905,
+    "name": "versuta",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'versuta' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 906,
+    "name": "crackheber",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'crackheber' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 907,
+    "name": "kinggothalion",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'kinggothalion' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 908,
+    "name": "f1nn5ter",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'f1nn5ter' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 909,
+    "name": "ray",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'ray' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 910,
+    "name": "gladd",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'gladd' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 911,
+    "name": "saruei",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'saruei' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 912,
+    "name": "echo_esports",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'echo_esports' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 913,
+    "name": "th3antonio",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'th3antonio' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 914,
+    "name": "jujalag",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'jujalag' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 915,
+    "name": "tonyrobbins",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'tonyrobbins' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 916,
+    "name": "xhocii",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'xhocii' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 917,
+    "name": "arturofernandeztv",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'arturofernandeztv' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 918,
+    "name": "tamatthi",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'tamatthi' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 919,
+    "name": "hazardu",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'hazardu' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 920,
+    "name": "monarch",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'monarch' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 921,
+    "name": "xchocobars",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'xchocobars' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 922,
+    "name": "marcomerrino",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'marcomerrino' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 923,
+    "name": "jessirocks",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'jessirocks' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 924,
+    "name": "keshaeuw",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'keshaeuw' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 925,
+    "name": "vukiby",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'vukiby' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 926,
+    "name": "ayrun",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'ayrun' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 927,
+    "name": "limmy",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'limmy' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 928,
+    "name": "repullze",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'repullze' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 929,
+    "name": "officermesser",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'officermesser' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 930,
+    "name": "wakzlol",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'wakzlol' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 931,
+    "name": "alinity",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'alinity' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 932,
+    "name": "jay3",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'jay3' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 933,
+    "name": "kaydop",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'kaydop' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 934,
+    "name": "gotsukishima",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'gotsukishima' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 935,
+    "name": "makupag",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'makupag' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 936,
+    "name": "chiringuitovivo",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'chiringuitovivo' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 937,
+    "name": "vetheo",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'vetheo' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 938,
+    "name": "buxexa_q",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'buxexa_q' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 939,
+    "name": "scream",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'scream' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 940,
+    "name": "orangemorange",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'orangemorange' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 941,
+    "name": "sheefgg",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'sheefgg' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 942,
+    "name": "hudson_fss",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'hudson_fss' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 943,
+    "name": "annacramling",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'annacramling' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 944,
+    "name": "manyrin",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'manyrin' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 945,
+    "name": "happyhappygal",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'happyhappygal' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 946,
+    "name": "kumalezo",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'kumalezo' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 947,
+    "name": "yetz",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'yetz' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 948,
+    "name": "xnapycz",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'xnapycz' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 949,
+    "name": "julien",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'julien' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 950,
+    "name": "buxexa_r",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'buxexa_r' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 951,
+    "name": "payo",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'payo' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 952,
+    "name": "ricci",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'ricci' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 953,
+    "name": "relaxcis",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'relaxcis' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 954,
+    "name": "menostrece",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'menostrece' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 955,
+    "name": "sweatcicle",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'sweatcicle' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 956,
+    "name": "mylonzete",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'mylonzete' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 957,
+    "name": "jaikerumakuson",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'jaikerumakuson' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 958,
+    "name": "loeya",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'loeya' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 959,
+    "name": "renekreher",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'renekreher' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 960,
+    "name": "coolifegame",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'coolifegame' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 961,
+    "name": "edopeh",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'edopeh' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 962,
+    "name": "kokujintv",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'kokujintv' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 963,
+    "name": "lvthalo",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'lvthalo' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 964,
+    "name": "lollolacustre",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'lollolacustre' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 965,
+    "name": "thiefs",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'thiefs' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 966,
+    "name": "alexclick",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'alexclick' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 967,
+    "name": "el_yuste",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'el_yuste' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 968,
+    "name": "ko0416",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'ko0416' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 969,
+    "name": "ariasaki",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'ariasaki' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 970,
+    "name": "auslots",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'auslots' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 971,
+    "name": "bunnyayu",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'bunnyayu' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 972,
+    "name": "ai_hongo_",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'ai_hongo_' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 973,
+    "name": "slipix",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'slipix' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 974,
+    "name": "gearbaby1010",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'gearbaby1010' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 975,
+    "name": "homaxih",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'homaxih' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 976,
+    "name": "sylvainlyve",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'sylvainlyve' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 977,
+    "name": "alphakep",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'alphakep' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 978,
+    "name": "jeefhs",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'jeefhs' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 979,
+    "name": "sips_",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'sips_' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 980,
+    "name": "josie5297",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'josie5297' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 981,
+    "name": "rocketstreetlive",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'rocketstreetlive' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 982,
+    "name": "brino",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'brino' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 983,
+    "name": "narutovie_",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'narutovie_' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 984,
+    "name": "dakillzor",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'dakillzor' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 985,
+    "name": "central_committee",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'central_committee' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 986,
+    "name": "nickeh30",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'nickeh30' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 987,
+    "name": "eslcsc",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'eslcsc' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 988,
+    "name": "smii7y",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'smii7y' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 989,
+    "name": "laink",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'laink' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 990,
+    "name": "karmikkoala",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'karmikkoala' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 991,
+    "name": "ranboolive",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'ranboolive' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 992,
+    "name": "itsassitv",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'itsassitv' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 993,
+    "name": "mauriceweber",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'mauriceweber' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 994,
+    "name": "carynandconnie",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'carynandconnie' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 995,
+    "name": "nacho_dayo",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'nacho_dayo' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 996,
+    "name": "jlcs2",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'jlcs2' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 997,
+    "name": "nobru_xy",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'nobru_xy' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 998,
+    "name": "buxexa_t",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'buxexa_t' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 999,
+    "name": "sweetdreams",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'sweetdreams' for key 'streamer.name_UNIQUE'"
+  },
+  {
+    "line": 1000,
+    "name": "giantwaffle",
+    "type": "ER_DUP_ENTRY",
+    "detail": "Duplicate entry 'giantwaffle' for key 'streamer.name_UNIQUE'"
+  }
+]

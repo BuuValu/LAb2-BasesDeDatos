@@ -1,0 +1,15 @@
+{
+  "file": "Streamers.csv",
+  "rowsRead": 999,
+  "streamers": 999,
+  "relations": 1921,
+  "withoutSecondaryGame": 77,
+  "languages": 19,
+  "games": 211,
+  "errors": 0,
+  "aborted": false,
+  "warnings": [
+    "GAME: \"Valorant\" matches existing \"VALORANT\" under the collation; reusing id 9",
+    "GAME: \"TrackMania\" matches existing \"Trackmania\" under the collation; reusing id 29"
+  ]
+}

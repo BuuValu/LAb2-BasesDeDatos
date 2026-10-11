@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Streamers - MySQL</title>
+</head>
+<body>
+  <h1>Gestión de streamers</h1>
+
+  <section>
+    <h2>Registrar streamer</h2>
+    <label>Nombre: <input id="name" required></label><br><br>
+    <label>Promedio de espectadores por stream: <input id="avg_viewers_per_stream" type="number" min="0" required></label><br><br>
+    <label>Total de seguidores: <input id="total_followers" type="number" min="0" required></label><br><br>
+    <label>Total de vistas: <input id="total_views" type="number" min="0" required></label><br><br>
+    <label>Total de juegos transmitidos: <input id="total_games_streamed" type="number" min="0" required></label><br><br>
+    <label>Días activos por semana: <input id="active_days_per_week" type="number" min="0" max="7" step="0.1" required></label><br><br>
+    <label>ID del idioma (debe existir en LANGUAGUE): <input id="language_id" type="number" min="1" required></label><br><br>
+    <button id="postBtn">Guardar streamer</button>
+    <p id="postSqlResult"></p>
+  </section>
+
+  <section>
+    <h2>Consultar todos los streamers</h2>
+    <button id="getAllBtn">Consultar</button>
+    <ul id="getAllResult"></ul>
+  </section>
+
+  <section>
+    <h2>Consultar streamer por ID</h2>
+    <label>ID: <input id="id" type="number" min="1"></label>
+    <button id="getOneBtn">Consultar</button>
+    <pre id="getOneResult"></pre>
+  </section>
+
+  <section>
+    <h2>Eliminar streamer por ID</h2>
+    <label>ID: <input id="deleteId" type="number" min="1"></label>
+    <button id="deleteBtn">Eliminar</button>
+    <p id="deleteResult"></p>
+  </section>
+
+  <script src="./js/sql.js"></script>
+</body>
+</html>

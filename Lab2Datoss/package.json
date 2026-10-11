@@ -1,0 +1,12 @@
+{
+  "name": "baseproyecto2026",
+  "version": "1.0.0",
+  "scripts": {
+    "load": "node load.js",
+    "verify": "node verify.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "mysql2": "^3.20.0"
+  }
+}
